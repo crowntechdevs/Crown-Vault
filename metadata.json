@@ -1,0 +1,6 @@
+{
+  "name": "Crown Vault",
+  "description": "A quantum crypto wallet and digital asset management application with market intelligence, staking, instant swap, virtual cards, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crown Vault</string>
+    <string name="brand_crown">CROWN</string>
+    <string name="brand_vault">VAULT</string>
+    <string name="content_desc_brand_logo">Crown Vault Logo</string>
+    <string name="content_desc_open_menu">Open menu</string>
+    <string name="content_desc_notifications">Notifications</string>
+    <string name="content_desc_close">Close</string>
+    <string name="content_desc_copy_address">Copy address</string>
+    <string name="content_desc_swap_assets">Swap assets</string>
+    <string name="drawer_signature">Crown Vault was developed and designed by\nCrown Tech™. All rights reserved ® 2026</string>
+    <string name="legal_signature">Crown Tech™ ® 2026</string>
+</resources>
